@@ -1,0 +1,47 @@
+/* votre code CSS */
+body{
+  height: 100vh;
+  background-color: black;
+}
+
+p {
+  color:white;
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+}
+
+#mapid {
+  height: 65vh;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.form {
+  border: 2px solid blue;
+  background-color: blue;
+  color: white;
+  border-radius: 4px;
+  padding: 5px;
+  width: 45%;
+}
+
+.bouton {
+  border: 2px solid blue;
+  background-color: blue;
+  border-radius: 4px;
+  padding: 5px;
+  width: 20%;
+  text-transform: uppercase;
+  color: white;
+}
+
+.bouton2 {
+  border: 2px solid blue;
+  background-color: blue;
+  border-radius: 4px;
+  color: white;
+  margin-top: 5px;
+  padding: 10px;
+  width: 33%;
+  text-transform: uppercase;
+}
